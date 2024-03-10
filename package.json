@@ -1,6 +1,6 @@
 {
   "name": "@ivellyno1337/happybirthday",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Simple Web Happybirthday",
   "main": "index.js",
   "scripts": {
