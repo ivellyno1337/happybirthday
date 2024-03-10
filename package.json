@@ -1,0 +1,31 @@
+{
+  "name": "@ivellyno1337/happybirthday",
+  "version": "1.0.0",
+  "description": "Simple Web Happybirthday",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivellyno1337/happybirthday.git"
+  },
+  "keywords": [
+    "happybirthday",
+    "nodejs",
+    "website",
+    "html"
+  ],
+  "author": "ivellyno1337",
+  "license": "ISC",
+  "dependencies": {
+    "@pakforlay/add-watermark": "1.0.10",
+    "express": "4.18.3",
+    "body-parser": "1.20.2",
+    "morgan": "1.10.0"
+  },
+  "bugs": {
+    "url": "https://github.com/ivellyno1337/happybirthday/issues"
+  },
+  "homepage": "https://github.com/ivellyno1337/happybirthday#readme"
+}
